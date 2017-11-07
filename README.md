@@ -6,9 +6,9 @@ Requires Node v4+
 
 ```bash
 # Installation
-$ npm i zom -g 
+$ npm i zom -g
 # Usage
-$ zom Starbucks
+$ zom Starbucks@Delhi
 Starbucks (⭐️ ⭐️ ⭐️  3.9 Very Good)
     🕸  https://www.zomato.com/ncr/starbucks-1-connaught-place-new-delhi?utm_source=api_basic_user&utm_medium=api&utm_campaign=v2.1
     🗺A Block A, Hamilton House, Connaught Place, New Delhi
@@ -33,7 +33,7 @@ Why not ? 🙃
 
 Seriously though, sometimes team parties are decided mid work and it's great to not to have to open browser and search when you can simply use a quick CLI tool.
 
-### Todo 
+### Todo
 * [ ] Use `~/.zomatoclirc` to save settings like location etc
 * [ ] Use client location if not specified.
 * [ ] Add parameters for better searches
